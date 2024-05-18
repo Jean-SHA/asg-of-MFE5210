@@ -1,6 +1,6 @@
 # asg-of-MFE5210
 
-Factor A：momentum
+Factor：momentum_5D & momentum_10D
 
 -- Part1: what is Momentum？
 
@@ -61,6 +61,8 @@ ic图：
 动量因子的收益率图为
 <img width="775" alt="截屏2024-05-18 下午4 11 59" src="https://github.com/Jean-SHA/asg-of-MFE5210/assets/128243716/e79b94e8-6d5b-4fee-93d2-545e67c7e703">
 
+因子间的相关系数：
+
 -- Part4：reference
 
 1、光大证券-多因子系列报告之二十二：再论动量因子
@@ -70,8 +72,4 @@ ic图：
 3、中国A股市场动量效应的特征和形成机理研究
 
 
-Factor B：
 
--- Part4：reference
-
-《广发证券_多因子Alpha系列报告之（二十七）——基于筹码分布的选股策略》
