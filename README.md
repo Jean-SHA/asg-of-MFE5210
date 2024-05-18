@@ -68,3 +68,10 @@ ic图：
 2、Value and Momentum Everywhere
 
 3、中国A股市场动量效应的特征和形成机理研究
+
+
+Factor B：
+
+-- Part4：reference
+
+《广发证券_多因子Alpha系列报告之（二十七）——基于筹码分布的选股策略》
