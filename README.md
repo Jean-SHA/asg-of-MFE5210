@@ -61,8 +61,6 @@ ic图：
 动量因子的收益率图为
 <img width="775" alt="截屏2024-05-18 下午4 11 59" src="https://github.com/Jean-SHA/asg-of-MFE5210/assets/128243716/e79b94e8-6d5b-4fee-93d2-545e67c7e703">
 
-
-
 -- Part4：reference
 
 1、光大证券-多因子系列报告之二十二：再论动量因子
@@ -71,5 +69,29 @@ ic图：
 
 3、中国A股市场动量效应的特征和形成机理研究
 
+Factor：上下影线因子
+
+-- Part1: 因子构造
+威廉指标(Larry Williams, 1973)：以一段时间内的空方力量(High－Close)与多空总力量(High －Low)之比，来研判市场的未来走势。威廉指标的具体计算公式为：<img width="333" alt="image" src="https://github.com/Jean-SHA/asg-of-MFE5210/assets/128243716/c24fcac7-e01e-4581-bab9-135de715253c">
+
+-- Part2: 因子分析
+
+上影线因子upper VS 下影线因子lower
+
+各组因子IC Mean情况
+ ------------------------------------------------------------ 
+              upper     lower
+period_5  0.012826  0.012826 
+ ------------------------------------------------------------
+
+<img width="729" alt="截屏2024-05-19 上午10 40 51" src="https://github.com/Jean-SHA/asg-of-MFE5210/assets/128243716/8451f198-582f-4b10-a88d-e15fde8b62a5">
+
+ upper/lower factor对应夏普比率为5.41/5.41·
+
+ 关于upper：<img width="871" alt="截屏2024-05-19 上午10 42 27" src="https://github.com/Jean-SHA/asg-of-MFE5210/assets/128243716/afc29505-7b8f-4d2f-8fd2-8eeefe8b6c70">
 
 
+ 关于lower：<img width="887" alt="截屏2024-05-19 上午10 42 36" src="https://github.com/Jean-SHA/asg-of-MFE5210/assets/128243716/40c80d9c-2a72-4826-aa81-c914670742a7">
+
+ 多空收益：
+<img width="754" alt="截屏2024-05-19 上午10 43 26" src="https://github.com/Jean-SHA/asg-of-MFE5210/assets/128243716/3de285a7-62c6-4cc4-a942-cff7984474f5">
